@@ -1,2 +1,2 @@
 # twitter-clone
-A twitter clone from rocketseat css flexbox lessons
+A twitter clone using vanilla html and css
